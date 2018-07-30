@@ -525,8 +525,6 @@
   <project name="platform/prebuilts/deqp" path="prebuilts/deqp" clone-depth="1" />
   <project name="platform/prebuilts/devtools" path="prebuilts/devtools" clone-depth="1" />
   <project name="platform/prebuilts/eclipse" path="prebuilts/eclipse" clone-depth="1" />
-  <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8" path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8" clone-depth="1" />
-  <project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" clone-depth="1" />
   <project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" clone-depth="1" />
   <project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" clone-depth="1" />
   <project name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8" path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8" clone-depth="1" />
@@ -618,12 +616,6 @@
   <project name="platform/vendor/qcom-opensource/wlan/prima" path="vendor/qcom/opensource/wlan/prima" />
   <project name="platform/vendor/qcom-opensource/wlan/qcacld-2.0" path="vendor/qcom/opensource/wlan/qcacld-2.0" />
   <project name="platform/vendor/qcom-opensource/wlan/utils/sigma-dut" path="vendor/qcom/opensource/wlan/utils/sigma-dut" />
-  <project name="platform/vendor/qcom/msm8937_32go" path="device/qcom/msm8937_32go" />
-  <project name="platform/vendor/qcom/thorium_32" path="device/qcom/msm8937_32" />
-  <project name="platform/vendor/qcom/thorium_64" path="device/qcom/msm8937_64" />
-  <project name="platform/vendor/qcom/thulium" path="device/qcom/msm8996" />
-  <project name="platform/vendor/qcom/titanium_32" path="device/qcom/msm8953_32" />
-  <project name="platform/vendor/qcom/titanium_64" path="device/qcom/msm8953_64" />
   <project name="toolchain/binutils" />
 
   <!-- AOSP-CAF additions -->
