@@ -620,5 +620,8 @@
 
   <!-- AOSP-CAF additions -->
   <include name="manifests/aospcaf.xml"/>
+  
+  <!-- jflte additions -->
+  <include name="manifests/jflte.xml"/>
 
 </manifest>
