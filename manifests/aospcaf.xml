@@ -59,12 +59,6 @@
   <remove-project name="platform/vendor/qcom-opensource/wlan/prima" />
   <remove-project name="platform/vendor/qcom-opensource/wlan/qcacld-2.0" />
   <remove-project name="platform/vendor/qcom-opensource/wlan/utils/sigma-dut" />
-  <remove-project name="platform/vendor/qcom/msm8937_32go" />
-  <remove-project name="platform/vendor/qcom/thorium_32" />
-  <remove-project name="platform/vendor/qcom/thorium_64" />
-  <remove-project name="platform/vendor/qcom/thulium" />
-  <remove-project name="platform/vendor/qcom/titanium_32" />
-  <remove-project name="platform/vendor/qcom/titanium_64" />
   <!-- REMOVE PROJECTS -->
 
   <!-- BEGIN AOSP-CAF -->
