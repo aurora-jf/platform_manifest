@@ -86,7 +86,6 @@
   <project name="platform_external_libweave" path="external/libweave" remote="aosp-caf" />
   <project name="platform_external_okhttp" path="external/okhttp" remote="aosp-caf" />
   <project name="platform_external_selinux" path="external/selinux" remote="aosp-caf" />
-  <project name="platform_frameworks_av" path="frameworks/av" remote="aosp-caf" />
   <project name="platform_frameworks_base" path="frameworks/base" remote="aosp-caf" />
   <project name="platform_frameworks_native" path="frameworks/native" remote="aosp-caf" />
   <project name="platform_frameworks_opt_telephony" path="frameworks/opt/telephony" remote="aosp-caf" />
