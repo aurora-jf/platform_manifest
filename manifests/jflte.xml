@@ -19,10 +19,10 @@
   <project path="kernel/samsung/jf" name="JDCTeam/platform_kernel_samsung_jf" remote="github" revision="aosp-8.1-vend" />
 
   <!--Hardware-->
-  <project path="hardware/qcom/audio-caf/msm8960" name="LineageOS/android_hardware_qcom_audio" remote="github" revision="staging/lineage-15.1-caf-8960" />
-  <project path="hardware/qcom/bt-caf" name="LineageOS/android_hardware_qcom_bt" remote="github" revision="staging/lineage-15.1-caf" />
-  <project path="hardware/qcom/display-caf/msm8960" name="LineageOS/android_hardware_qcom_display" remote="github" revision="staging/lineage-15.1-caf-8960" />
-  <project path="hardware/qcom/media-caf/msm8960" name="LineageOS/android_hardware_qcom_media" remote="github" revision="staging/lineage-15.1-caf-8960" />
+  <project path="hardware/qcom/audio-caf/msm8960" name="LineageOS/android_hardware_qcom_audio" remote="github" revision="lineage-15.1-caf-8960" />
+  <project path="hardware/qcom/bt-caf" name="LineageOS/android_hardware_qcom_bt" remote="github" revision="lineage-15.1-caf" />
+  <project path="hardware/qcom/display-caf/msm8960" name="LineageOS/android_hardware_qcom_display" remote="github" revision="lineage-15.1-caf-8960" />
+  <project path="hardware/qcom/media-caf/msm8960" name="LineageOS/android_hardware_qcom_media" remote="github" revision="lineage-15.1-caf-8960" />
   <project path="hardware/qcom/audio/default" name="LineageOS/android_hardware_qcom_audio" remote="github" revision="lineage-15.1" />
   
 </manifest>
