@@ -24,5 +24,5 @@
   <project path="hardware/qcom/display-caf/msm8960" name="LineageOS/android_hardware_qcom_display" remote="github" revision="lineage-15.1-caf-8960" />
   <project path="hardware/qcom/media-caf/msm8960" name="LineageOS/android_hardware_qcom_media" remote="github" revision="lineage-15.1-caf-8960" />
   <project path="hardware/qcom/audio/default" name="LineageOS/android_hardware_qcom_audio" remote="github" revision="lineage-15.1" />
-  
+  <project path="hardware/qcom/media" name="LineageOS/android_hardware_qcom_media" remote="github" revision="lineage-15.1"  />
 </manifest>
